@@ -21,7 +21,7 @@ cap.set(3,320)
 cap.set(4,240)
 
 # Starting qhue
-probierstube = Bridge("192.168.104.112", "2897756c17c8c8b257343a121ee17d7") #Bridge handling
+probierstube = Bridge("192.168.104.112", "key") #Bridge handling
 
 
 while True:
